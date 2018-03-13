@@ -7,6 +7,10 @@
   <input type="text" name="firstname"><br>
   Last name:<br>
   <input type="text" name="lastname">
+  Email:<br>
+  <input type="text" name="email">
+  Occupation:<br>
+  <input type="text" name="occupation"> 
   <br> 
   <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
