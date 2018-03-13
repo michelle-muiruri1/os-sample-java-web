@@ -1,5 +1,4 @@
 <html>
-<body>
 <body style="background-color:gray;"> 
 <h2>Contact Information</h2>
 
